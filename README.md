@@ -1,2 +1,2 @@
 # Web-Crawler
-web crawler semples e preciso, para captura de dados de uma página web.
+web crawler simples e preciso, para captura de dados de uma página web.
